@@ -1,0 +1,10 @@
+body {
+  color: white;
+  background-color: #13afed;
+  text-align: center;
+}
+
+h1:hover {
+  background-color: pink;
+  font-size: 300%;
+}
